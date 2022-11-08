@@ -12,4 +12,4 @@ else
     git status
     echo "Pushing code to repo"
     git push
-fis
+fi
