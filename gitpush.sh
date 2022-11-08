@@ -11,5 +11,5 @@ then
 else
     git status
     echo "Pushing code to repo"
-    git push
+    git push -u origin master
 fi
